@@ -47,6 +47,8 @@ I would like to make a music social media type app. I want to implement the feat
 
 Describe any challenges encountered while building the app.
 
+I was confused by some of the wording in the instructions, but once I re-read it and understood, I had no other problems.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
